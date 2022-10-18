@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexKravchenko1
-- 👀 I’m interested in data engineering, analysis and all releated with data field
-- 🌱 I’m currently learning blockchain technology 
-- 💞️ I’m looking to collaborate on intresting projects related with data and/or blockchain tech
+- 👀 I’m a data engineer
+- 💞️ I’m looking to collaborate on intresting projects related with data area
 - 📫 How to reach me: email - andibull25@gmail.com, telegram - @ArcHKraV, LinkedIn - linkedin.com/in/kravchenko-oleksii
 
 <!---
